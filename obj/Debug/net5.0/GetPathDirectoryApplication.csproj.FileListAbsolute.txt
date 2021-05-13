@@ -1,0 +1,16 @@
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\GetPathDirectoryApplication.exe
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\GetPathDirectoryApplication.deps.json
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\GetPathDirectoryApplication.runtimeconfig.json
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\GetPathDirectoryApplication.runtimeconfig.dev.json
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\GetPathDirectoryApplication.dll
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\ref\GetPathDirectoryApplication.dll
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\bin\Debug\net5.0\GetPathDirectoryApplication.pdb
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.csprojAssemblyReference.cache
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.AssemblyInfoInputs.cache
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.AssemblyInfo.cs
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.csproj.CoreCompileInputs.cache
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.dll
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\ref\GetPathDirectoryApplication.dll
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.pdb
+C:\Users\creat\Documents\DotNet\GetPathDirectoryApplication\obj\Debug\net5.0\GetPathDirectoryApplication.genruntimeconfig.cache
