@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace GetPathDirectoryApplication
@@ -6,16 +7,17 @@ namespace GetPathDirectoryApplication
     public class PathApplication
     {
         public void GetPath(){
-            string path1 = AppDomain.CurrentDomain.BaseDirectory;
-            string path2 = Environment.CurrentDirectory;
-            string path3 = Directory.GetCurrentDirectory();
-            string path4 = Directory.GetParent(Environment.CurrentDirectory).Parent.FullName;
 
-            Console.WriteLine(path1);
-            Console.WriteLine(path2);
-            Console.WriteLine(path3);
-            Console.WriteLine(path4);
+            List<string> ListExampleGetPath = new List<string>();
 
+            ListExampleGetPath.Add(AppDomain.CurrentDomain.BaseDirectory);
+            ListExampleGetPath.Add(Environment.CurrentDirectory);
+            ListExampleGetPath.Add(Directory.GetCurrentDirectory());
+            ListExampleGetPath.Add(Directory.GetParent(Environment.CurrentDirectory).Parent.FullName);
+
+            foreach(string path in ListExampleGetPath){
+                Console.WriteLine(path);
+            }
         }
     }
 }
